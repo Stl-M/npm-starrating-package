@@ -1,0 +1,11 @@
+{
+  "name": "npmstarrating",
+  "version": "1.0.0",
+  "description": "npm package to use in projects for ratings",
+  "main": "StarRating.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stella Mungai",
+  "license": "ISC"
+}
